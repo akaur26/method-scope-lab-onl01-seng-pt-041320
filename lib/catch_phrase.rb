@@ -1,4 +1,4 @@
 def catch_phrase(puts out a catch phrase)
- phrase= Its
+ phrase= "It's 
   puts phrase
 end
